@@ -1,2 +1,2 @@
-# Test_GATK
+# Cancer Prediction Model Project
 
